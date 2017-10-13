@@ -1,0 +1,120 @@
+﻿1.png|The Super Contra 7|Супер Контра 7
+2.png|Wacky Races|Ваки Рейсес
+3.png|Bonks Adventure|Bonk Adventure|Бонкс Адвенчер|Бонк Адвенчер|Bonk|Бонк
+4.png|Shadow of The Ninja|Shadow of Ninja|Kage|Blue Shadow|Каге|Блю Шедоу|Шедоу оф Ниндзя
+5.png|Rainbow Islands|Рэинбоу Айлендс
+6.png|Legend of Zelda|Ледженд оф Зельда|Легенда о Зельде|Zelda|Зельда
+7.png|Castlevania|Кастлевания|Каслвания
+8.png|Tale Spin|Тейл Спин|Чудеса на Виражах
+9.png|Super Mario Bros 3|Супер Марио Брос 3|Super Mario 3|Супер марио 3
+10.png|Joe and Mac Caveman Ninja|Joe Mac Caveman Ninja|Джо и Мак Кейвмен Ниндзя|Joe and Mac|Joe Mac|Джо и Мак|Joe Mac Caveman Ninja
+11.png|Megaman 2|Mega Man 2|Мегамен 2|Мега мен 2
+12.png|Rockin Kats|Рокин Кэтс
+13.png|Iron Tank|Great Tank|Айрон Танк|Грейт Танк
+14.png|Ninja Gaiden|Ниндзя Гайден
+15.png|Double Dragon 2|Дабл Драгон 2
+16.png|Battletoads|Батлтоадс
+17.png|Teenage Mutant Ninja Turtles 3|TMNT 3|Черепашки Ниндзя 3|Черепашки-Ниндзя 3|ТМНТ 3
+18.png|DuckTales|Duck Tales|Дак Тейлс|Утиные Истории
+19.png|Rollergames|Роллергеймс
+20.png|Little Nemo Dream Master|Little Nemo|Литл Немо Дрим Мастер|Литл Немо|Маленький Немо
+21.png|Super Bros 10 Kung Fu Mari|Super Mario 10|Super Mario Bros 10|Mario 10|Супер Марио 10|Супер Марио Брос 10|Марио 10
+22.png|Donkey Kong 3|Данки Конг 3
+23.png|Kid Kool|Кид Кул
+24.png|Contra|Контра
+25.png|Shatterhand|Шаттерхэнд|Solbrain|Солбрейн|Tokkyuu Shirei Solbrain|Токкю Ширей Солбрейн
+26.png|Silver Surfer|Сильвер Сёрфер|Серебряный Сёрфер
+27.png|Kirbys Adventure|Kirby Adventure|Кирбис Адвенчер|Кирби Адвенчер|Kirby|Кирби
+28.png|Super Spy Hunter|Супер Спай Хантер
+29.png|Metal Storm|Метал Шторм
+30.png|Felix The Cat|Felix Cat|Felix|Феликс кэт|Кот Феликс
+31.png|Super C|Super Contra|Супер Си|Супер Контра
+32.png|Blaster Master|Бластер Мастер
+33.png|Guardian Legend|Гвардиан Ледженд
+34.png|Gun Smoke|Ган Смоук|GunSmoke|ГанСмоук
+35.png|Batman|Бэтмен
+36.png|Max Warrior|Isolated Warrior|Макс Ворриор|Изолейтед Ворриор
+37.png|Battletoads and Double Dragon|Батлтоадс и Дабл Драгон|BT and DD|BTDD|Battletoads Double Dragon|БТиДД
+38.png|Darkwing Duck|Дарквинг Дак|Черный Плащ
+39.png|Tom and Jerry and Tuffy|Tom and Jerry|Tom Jerry Tuffy|Tom Jerry|Том и Джерри и Таффи|Том и Джерри
+40.png|Hudsons Adventure Island|Adventure Island|Адвенча Айленд|Хадсонс Адвенча Айленд|Остров приключений
+41.png|Somari|Сомари
+42.png|Circus Charlie|Сёркус Чарли|Цирк Чарли
+43.png|Power Blade 2|Пауэр Блейд 2
+44.png|Zen Intergalactic Ninja|Зен Интергалактик Ниндзя|Zen|Зен
+45.png|Guerrilla War|Гуеррилла Вар|Guevara|Гуевара
+46.png|Kick Master|Кик Мастер
+47.png|Vice Project Doom|Вайс Проджект Дум
+48.png|Panic Restaurant|Паник Рестаурант|Паник Ресторан
+49.png|Magic Jewelry|Мэджик Джевелри|Мэджик Джювелри
+50.png|Jackie Chans Action Kung Fu|Джеки Чан Экшн Кунг Фу|Jackie Chan Action Kung Fu|Jackie Chan|Джеки Чан
+51.png|Dragons Lair|Dragon Lair|Драгонс Лэир
+52.png|Mike Tyson Punch Out|Punch Out|PunchOut|Майк Тайсон Панч Аут|Панч Аут|ПанчАут
+53.png|Wild Gunman|Вайлд Ганмэн
+54.png|Whomp Em|Whompem|Saiyuuki World 2|Саюки Ворлд 2|Вумпем|Вумп ем
+55.png|Captain Skyhawk|Капитан Скайхок
+56.png|Jetsons Cogswells Caper|Jetsons|Джетсонс Когсвелл Капер|Джетсонс|Джетсоны
+57.png|Street Fighter 2010 Final Fight|Street Fighter 2010|Стрит Файтер 2010 Файнал Файт|Стрит Файтер 2010
+58.png|Bubble Bobble Part 2|Bubble Bobble 2|Бабл Бобл Парт 2|Бабл Бобл Часть 2|Бабл Бобл 2
+59.png|Little Samson|Литл Самсон
+60.png|Bionic Commando|Бионик Коммандо
+61.png|Earthworm Jim|Червяк Джим|Ёрзворм Джим
+62.png|Sonic The Hedgehog|Sonic Hedgehog|Sonic|Соник Хеджехог|Соник
+63.png|Adventures of Batman and Robin|Andentures of Batman Robin|Адвенчерс оф Бэтмен и Робин|Приключения Бэтмена и Робина
+64.png|Vectorman|Вектормен
+65.png|Revenge of Shinobi|Месть Шиноби|Ревендж оф Шиноби
+66.png|Robocop vs Terminator|Робокоп вс Терминатор|Робокоп против Терминатора|Robocop Versus Terminator
+67.png|Disneys Aladdin|Аладдин|Aladdin|Диснейс Аладдин
+68.png|Castlevania Bloodlines|Кастлевания Бладлайнс
+69.png|Lion King|Король Лев|Лайон Кинг
+70.png|Ristar|Ристар
+71.png|Dynamite Headdy|Динамайт Хэдди|Динамит Хэдди
+72.png|Squirrel King|Сквиррел Кинг
+73.png|Streets Of Rage|Bare Knuckle|Стритс оф Рейдж|Бар Накл
+74.png|Ren and Stimpy Show Stimpys Invention|Ren Stimpy|Рен и Стимпи Шоу Стимпи Инвеншн|Ren and Stimpy Show|Ren and Stimpy|Шоу Рена и Стимпи|Рен и Стимпи Шоу|Рен и Стимпи
+75.png|Comix Zone|Комикс Зон|Комикс Зона
+76.png|Gunstar Heroes|Ганстар Хироус
+77.png|Action 52|Cheetahmen|Экшн 52|Читамен
+78.png|Captain America and Avengers|Captain America Avengers|Капитан Америка и Мстители|Капитан Америка и Авенджерс|Captain America|Капитан Америка
+79.png|Donald Duck in Maui Mallard|Donald in Maui Mallard|Maui Mallard in Cold Shadow|Дональд Дак ин Мауи Маллард|Дональд ин Мауи Маллард|Мауи Маллард ин Колд Шэдоу|Maui Mallard|Мауи Маллард
+80.png|Michael Jacksons Moonwalker|Michael Jackson Moonwalker|Майкл Джексон Мунволкер|Moonwalker|Мунволкер
+81.png|Golden Axe|Голден Экс
+82.png|Contra Hard Corps|Контра Хард Корпс|CHC|КХК|Хард Корпс|Hard Corps
+83.png|Mortal Kombat|Мортал Комбат
+84.png|Rocket Knight Adventures|Rocket Knight|Рокет Найт Адвенчерс|Рокет Найт
+85.png|Rock n Roll Racing|Рок н Ролл Рейсинг|Rock and Roll Racing|Рокнролл рейсинг
+86.png|Sonic 3D Blast|Соник 3Д Бласт
+87.png|Teenage Mutant Ninja Turtles 4|ЧерепашкиНиндзя 4|Turtles In Time|Тёртлс ин Тайм|TMNT 4|ТМНТ 4
+88.png|Super Mario World|Супер Марио Ворлд
+89.png|Super Metroid|Супер Метроид
+90.png|Donkey Kong Country|Данки Конг Кантри
+91.png|Battletoads in Battlemaniacs|Батлтоадс ин Батлмэниакс|Батлманьяки|Battlemaniacs|Батлтоадс ин Батлманьяки
+92.png|Contra 3 Alien Wars|Контра 3 Алиен Ворс|Contra 3|Контра 3
+93.png|Megaman X|Мегамен Икс|Mega Man X|Мега Мен Икс
+94.png|Parodius Da|Parodius|Пародиус Да|Пародиус|Parodius NonSense Fantasy|Пародиус Нон-Сенс Фэнтези
+95.png|Sunset Riders|Сансет Райдерс
+96.png|Tiny Toon Adventures Busters Hidden Treasure|Тини Тун Адвенчерс|Тини Тун|Тини Тун Адвенчерс Бастер Хидден Треже|Tiny Toon|Tiny Toon Adventures
+97.png|Bucky O Hare|Баки О Хейр
+98.png|Ghosts N Goblins|Makaimura|Гостс Н Гоблинс|Макаимура
+99.png|Monster in my Pocket|Монстр в моём кармане|Монстр ин май покет
+100.png|Journey to Silius|Raf world|Жорней то силиус|Раф ворлд
+101.png|Megaman 4|Мегамен 4
+102.png|Gradius|Градиус
+103.png|Ninja Warriors Again|Ниндзя Ворриорс Эгеин|Ninja Warriors|Ниндзя Ворриорс
+104.png|Mighty Final Fight|Майти Файнал Файт
+105.png|Quack Shot Starring Donald Duck|Квак шот старринг дональд дак|Quack Shot|Квак шот
+106.png|Crisis Force|Кризис Форс
+107.png|Contra Force|Контра Форс
+108.png|Batman Returns|Бэтмен Ретурнс|Бэтмен возвращается
+109.png|Mickey Mouse|Mickey Mousecapade|Микки Маус|Микки Маускапейд
+110.png|Castlevania Dracula X|Кастлевания Дракула Икс|Dracula X|Дракула Икс
+111.png|Choujin Sentai Jetman|Jetman|Чоуджин Сентай Джетман|Джетман
+112.png|Gunnac|Ганнак
+113.png|Chip n Dale Rescue Rangers|Чип и Дейл Рескью Рейнджерс|Чип и Дейл спешат на помощь|Chip n Dale|Chip and Dale|Чип и Дейл|Chip Dale|Chip Dale Rescue Rangers
+114.png|Mitsume ga Tooru|Three Eyes Boy|3 Eyes Boy|Митсуме Га Тоору|Три Айс Бой|3 Айс Бой
+115.png|Chip n Dale Rescue Rangers 2|Чип и Дейл Рескью Рейнджерс 2|Чип и Дейл спешат на помощь 2|Chip n Dale 2|Chip and Dale 2|Чип и Дейл 2|Chip Dale 2|Chip Dale Rescue Rangers 2
+116.png|Super Castlevania 4|Супер Кастлевания 4|Castlevania 4|Кастлевания 4
+117.png|Wild Guns|Вайлд Ганс
+118.png|Ice Climber|Айс Климбер
+119.png|Prince Of Persia|Принц оф Персия|Принц Персии
+120.png|Track and Field|Track Field|Hyper Olympic|Трэк энд Филд|Гипер олимпик

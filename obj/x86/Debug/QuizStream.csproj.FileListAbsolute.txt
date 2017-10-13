@@ -1,0 +1,256 @@
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.pdb
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.csprojResolveAssemblyReference.cache
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.exe
+c:\users\omkol\documents\visual studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.pdb
+C:\Users\OmKol\Documents\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Black.png
+C:\Users\OmKol\Documents\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Blue.png
+C:\Users\OmKol\Documents\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_White.png
+C:\Users\OmKol\Documents\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade.fnt
+C:\Users\OmKol\Documents\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe.config
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Black.png
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Blue.png
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_White.png
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade.fnt
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe.config
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.pdb
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.csprojResolveAssemblyReference.cache
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.exe
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.pdb
+E:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Test.xnb
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe.config
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.exe
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.pdb
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Test.xnb
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Black.png
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Blue.png
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_White.png
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade.fnt
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.pdb
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.csprojResolveAssemblyReference.cache
+J:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe.config
+J:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.exe
+J:\Backup\МойКомп11042016\Документы\Visual Studio 2013\Projects\QuizStream\QuizStream\obj\x86\Debug\QuizStream.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe.config
+D:\MyPrj\QuizStream\QuizStream\obj\x86\Debug\QuizStream.exe
+D:\MyPrj\QuizStream\QuizStream\obj\x86\Debug\QuizStream.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Content\Test.xnb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Black.png
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Blue.png
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_White.png
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade.fnt
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Newtonsoft.Json.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Zlib.Portable.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.pdb
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Newtonsoft.Json.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\Zlib.Portable.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\MyPrj\QuizStream\QuizStream\obj\x86\Debug\QuizStream.csprojResolveAssemblyReference.cache
+D:\MyPrj\QuizStream\QuizStream\bin\Windows\Debug\client_secrets.json
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe.config
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\obj\x86\Debug\QuizStream.exe
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\obj\x86\Debug\QuizStream.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Content\Test.xnb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Black.png
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Blue.png
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_White.png
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade.fnt
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\client_secrets.json
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Newtonsoft.Json.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Zlib.Portable.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Newtonsoft.Json.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\Zlib.Portable.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\OmKol\Downloads\QuizStreamYoutubeEdition\QuizStream\QuizStream\obj\x86\Debug\QuizStream.csprojResolveAssemblyReference.cache
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe.config
+C:\Users\Коля\Desktop\QuizStream\QuizStream\obj\x86\Debug\QuizStream.exe
+C:\Users\Коля\Desktop\QuizStream\QuizStream\obj\x86\Debug\QuizStream.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Content\Test.xnb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Black.png
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_Blue.png
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade_White.png
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Content\Arcade.fnt
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\client_secrets.json
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.exe
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\QuizStream.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Newtonsoft.Json.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Zlib.Portable.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.Core.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Newtonsoft.Json.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\Zlib.Portable.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Коля\Desktop\QuizStream\QuizStream\obj\x86\Debug\QuizStream.csprojResolveAssemblyReference.cache
+D:\MyPrj\QuizStream\QuizStream\obj\x86\Debug\QuizStream.csproj.CoreCompileInputs.cache
