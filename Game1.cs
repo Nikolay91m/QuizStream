@@ -13,7 +13,6 @@ using Google.Apis.YouTube.v3;
 using System.Threading;
 using Google.Apis.Util.Store;
 using Google.Apis.Services;
-using YoutubeTest;
 using System.Threading.Tasks;
 using Google.Apis.YouTube.v3.Data;
 using Google.Apis.Util;
@@ -21,7 +20,7 @@ using Google.Apis.Util;
 namespace QuizStream
 {
     /// <summary>
-    /// This is the main type for your game
+    /// ToDo: Make this code readable until end of the week
     /// </summary>
     public class Game1 : Game
     {
@@ -54,7 +53,7 @@ namespace QuizStream
         XNAC backgroundXNAC = new XNAC(0, 0, 0, 255);
         bool authorized = false;
         int[] shuffle = new int[320];
-        int[] shuffleimages; // = new int[numberOfImages];
+        int[] shuffleimages;
         int width, height, size, center;
         float speeddraw = 1; int speeddraw2 = 1;
         int imgnumber = 0; int shufflednumber = 0;
@@ -277,12 +276,6 @@ namespace QuizStream
             using (var stream = TitleContainer.OpenStream(fontFilePath))
             {
                 var fontFile = FontLoader.Load(stream);
-                //var fontTexture = Content.Load<Texture2D>("Arcade_Black.png");
-                //fontRendererBlack = new FontRenderer(fontFile, fontTexture);
-                //fontTexture = Content.Load<Texture2D>("Arcade_White.png");
-                //fontRendererWhite = new FontRenderer(fontFile, fontTexture);
-                //fontTexture = Content.Load<Texture2D>("Arcade_Blue.png");
-                //fontRendererBlue = new FontRenderer(fontFile, fontTexture);
                 stream.Close();
             }
 
@@ -380,86 +373,17 @@ namespace QuizStream
                     }
                 }
                 else { prevstateofskip[0] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D0))
+                for (int i = 48; i <= 57; i++)
                 {
-                    if (!prevstateofskip[1])
+                    if (Keyboard.GetState().IsKeyDown((Keys)i))
                     {
-                        debugnumber += "0"; prevstateofskip[1] = true;
+                        if (!prevstateofskip[i - 47])
+                        {
+                            debugnumber += (i-48).ToString(); prevstateofskip[i - 47] = true;
+                        }
                     }
+                    else { prevstateofskip[i - 47] = false; }
                 }
-                else { prevstateofskip[1] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D1))
-                {
-                    if (!prevstateofskip[2])
-                    {
-                        debugnumber += "1"; prevstateofskip[2] = true;
-                    }
-                }
-                else { prevstateofskip[2] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D2))
-                {
-                    if (!prevstateofskip[3])
-                    {
-                        debugnumber += "2"; prevstateofskip[3] = true;
-                    }
-                }
-                else { prevstateofskip[3] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D3))
-                {
-                    if (!prevstateofskip[4])
-                    {
-                        debugnumber += "3"; prevstateofskip[4] = true;
-                    }
-                }
-                else { prevstateofskip[4] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D4))
-                {
-                    if (!prevstateofskip[5])
-                    {
-                        debugnumber += "4"; prevstateofskip[5] = true;
-                    }
-                }
-                else { prevstateofskip[5] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D5))
-                {
-                    if (!prevstateofskip[6])
-                    {
-                        debugnumber += "5"; prevstateofskip[6] = true;
-                    }
-                }
-                else { prevstateofskip[6] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D6))
-                {
-                    if (!prevstateofskip[7])
-                    {
-                        debugnumber += "6"; prevstateofskip[7] = true;
-                    }
-                }
-                else { prevstateofskip[7] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D7))
-                {
-                    if (!prevstateofskip[8])
-                    {
-                        debugnumber += "7"; prevstateofskip[8] = true;
-                    }
-                }
-                else { prevstateofskip[8] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D8))
-                {
-                    if (!prevstateofskip[9])
-                    {
-                        debugnumber += "8"; prevstateofskip[9] = true;
-                    }
-                }
-                else { prevstateofskip[9] = false; }
-                if (Keyboard.GetState().IsKeyDown(Keys.D9))
-                {
-                    if (!prevstateofskip[10])
-                    {
-                        debugnumber += "9"; prevstateofskip[10] = true;
-                    }
-                }
-                else { prevstateofskip[10] = false; }
                 if (Keyboard.GetState().IsKeyDown(Keys.Back))
                 {
                     if (!prevstateofskip[11])
@@ -959,8 +883,6 @@ namespace QuizStream
                     applied.Add(connected[chosenpixel]);
                     arrayoforder.Add(connected[chosenpixel]);
                     arrayoforderarray[applyx, applyy] = true;
-                    //int[] deletableArray = connected[chosenpixel];
-                    //var numOfItem = coords.FindIndex(x=>x == deletableArray);
                     coordsarray[applyx, applyy] = false;
                     connected.RemoveAt(chosenpixel);
                     connectedarray[applyx, applyy] = false;
@@ -1096,14 +1018,14 @@ namespace QuizStream
                     }
                 }
             }
-            ChatUpdated = 30;
-            Console.WriteLine("Updated!");
+            ChatUpdated = 30; //Update chat every 30 frames
+            //Console.WriteLine("Updated!");
         }
 
         //public void InitIRC()
         //{
         //    authorized = false;
-        //    user = new ChatSharp.IrcUser("KrknGameBot", "KrknGameBot", "oauth:gk5gcyh5oyjgp1ey487991x563xq8c");
+        //    user = here must be twitch credentials;
         //    client = new ChatSharp.IrcClient(@"irc.twitch.tv", user);
         //    client.NetworkError += (s, e) => Console.WriteLine("Error: " + e.SocketError);
         //    client.RawMessageRecieved += (s, e) => {

@@ -127,15 +127,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ChatSharp\ChatSharp.csproj" />
-    <Content Include="Content\Arcade_Black.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Content\Arcade_Blue.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Content\Arcade_White.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="Icon.ico" />
   </ItemGroup>
   <ItemGroup>
